@@ -1,6 +1,6 @@
 # 🧠 Multi-Class Text Classification with Transformers
 
-A hands-on NLP project using the AG News dataset to fine-tune a DistilBERT transformer for multi-class text classification. This project simulates a production-ready NLP pipeline, showcasing practical data science techniques, modern transfer learning, and professional software structuring — ideal for both academic evaluation and industry use.
+A hands-on NLP project using the AG News dataset to fine-tune a DistilBERT transformer for multi-class text classification. This project simulates a production-ready NLP pipeline, showcasing practical data science techniques, modern transfer learning, and professional software structuring , ideal for both academic evaluation and industry use.
 
 ---
 
@@ -136,4 +136,5 @@ jupyter notebook
 Data Scientist | Software Engineer  
 Building intelligent systems that solve real-world problems.  
 📎 [GitHub Portfolio](https://github.com/lexusimni) | 💼 [LinkedIn](https://www.linkedin.com/in/alexus-glass-248061237/)
+
 
