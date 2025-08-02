@@ -43,7 +43,7 @@ This graph shows the **training and validation accuracy** over 3 epochs. The mod
 
 ### 🧮 Confusion Matrix
 
-<img src="outputs/graphs/confusion-matrix.png" alt="Confusion Matrix" width="500"/>
+<img src="outputs/confusion_matrix.png" alt="Confusion Matrix" width="500"/>
 
 We can see the model performs well across all four classes. Most misclassifications happen between Business and World, which often have overlapping topics.
 
@@ -136,3 +136,4 @@ jupyter notebook
 Data Scientist | Software Engineer  
 Building intelligent systems that solve real-world problems.  
 📎 [GitHub Portfolio](https://github.com/lexusimni) | 💼 [LinkedIn](https://www.linkedin.com/in/alexus-glass-248061237/)
+
