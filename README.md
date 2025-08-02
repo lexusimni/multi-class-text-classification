@@ -35,7 +35,7 @@ We loaded the dataset manually into the `data/` folder as a `.csv` file to avoid
 
 ### 📈 Training Progress
 
-<img src="outputs/graphs/training_loss.png" alt="Training accuracy and loss per epoch" width="600"/>
+<img src="outputs/training_loss.png" alt="Training accuracy and loss per epoch" width="600"/>
 
 This graph shows the **training and validation accuracy** over 3 epochs. The model consistently improves and generalizes well.
 
@@ -136,6 +136,7 @@ jupyter notebook
 Data Scientist | Software Engineer  
 Building intelligent systems that solve real-world problems.  
 📎 [GitHub Portfolio](https://github.com/lexusimni) | 💼 [LinkedIn](https://www.linkedin.com/in/alexus-glass-248061237/)
+
 
 
 
